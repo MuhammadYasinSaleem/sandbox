@@ -1,0 +1,2 @@
+Name,Instance,Type,Hypervisor,Virtualization Type,Architecture,EBS Optimized,CPUUtilization (Percent),DiskReadOps (Count),DiskWriteOps (Count),DiskReadBytes (Bytes),DiskWriteBytes (Bytes),NetworkIn (Bytes),NetworkOut (Bytes),NetworkPacketsIn (Count),NetworkPacketsOut (Count)
+Bastion Host,i-0d6b457ff9dc49d73,t2.micro,xen,hvm,x86_64,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
